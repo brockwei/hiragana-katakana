@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hiragana-katakana/static/css/main.945139c1.css",
-    "main.js": "/hiragana-katakana/static/js/main.bacdae0d.js",
+    "main.css": "/hiragana-katakana/static/css/main.8a5b6be4.css",
+    "main.js": "/hiragana-katakana/static/js/main.bcaf5273.js",
     "static/js/787.a8a828f0.chunk.js": "/hiragana-katakana/static/js/787.a8a828f0.chunk.js",
     "index.html": "/hiragana-katakana/index.html",
-    "main.945139c1.css.map": "/hiragana-katakana/static/css/main.945139c1.css.map",
-    "main.bacdae0d.js.map": "/hiragana-katakana/static/js/main.bacdae0d.js.map",
+    "main.8a5b6be4.css.map": "/hiragana-katakana/static/css/main.8a5b6be4.css.map",
+    "main.bcaf5273.js.map": "/hiragana-katakana/static/js/main.bcaf5273.js.map",
     "787.a8a828f0.chunk.js.map": "/hiragana-katakana/static/js/787.a8a828f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.945139c1.css",
-    "static/js/main.bacdae0d.js"
+    "static/css/main.8a5b6be4.css",
+    "static/js/main.bcaf5273.js"
   ]
 }
